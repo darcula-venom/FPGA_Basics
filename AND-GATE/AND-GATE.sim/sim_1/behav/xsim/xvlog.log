@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/darcula-venom/Documents/vivado-workpace/FPGA Basics/AND-GATE/AND-GATE.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/darcula-venom/Documents/vivado-workpace/FPGA Basics/AND-GATE/AND-GATE.srcs/sim_1/new/andGateSimulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module andGateSimulation

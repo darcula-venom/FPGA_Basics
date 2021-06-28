@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:{/home/darcula-venom/Documents/vivado-workpace/FPGA Basics/AND-GATE/AND-GATE.srcs/constrs_1/new/pinConfig.xdc} rfile:../../../AND-GATE.srcs/constrs_1/new/pinConfig.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V17 [get_ports {inA}]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V16 [get_ports {inB}]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U16 [get_ports {outC}]
